@@ -19,4 +19,4 @@
 ![report_flower](./보고서_템플릿/seal.png)
 
 ### License
-© [meongju0o0](https://github.com/meongju0o0) uses The Unlicense. Idea from [drsungwon](https://github.com/drsungwon).
+© [meongju0o0](https://github.com/meongju0o0) uses Unlicense. Idea from [drsungwon](https://github.com/drsungwon).
